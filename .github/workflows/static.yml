@@ -18,8 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name:check for index.html
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
+       
        run : |
        if[ !-s index.html];then
        echo "WARNING: index.html is missing or empty"

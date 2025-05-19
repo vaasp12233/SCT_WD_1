@@ -294,22 +294,8 @@
     </footer>
 
     <script>
-        // Octokit.js
-// https://github.com/octokit/core.js#readme
-const octokit = new Octokit({
-  auth: 'YOUR-TOKEN'
-})
 
-await octokit.request('POST /repos/{vaasp12233}/{SWT_WD_1}/deployments', {
-  owner: 'vaasp12233',
-  repo: 'SWT_WD_1',
-  ref: 'topic-branch',
-  payload: '{ "deploy": "migrate" }',
-  description: 'Deploy request from hubot',
-  headers: {
-    'X-GitHub-Api-Version': '2022-11-28'
-  }
-})
+
         // Navbar scroll effect
         window.addEventListener('scroll', function() {
             const navbar = document.querySelector('.navbar');

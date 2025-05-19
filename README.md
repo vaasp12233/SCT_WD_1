@@ -1,4 +1,4 @@
-# SCT_WD_1
+
 # 🌐 Skillcraft – Internship Web Project
 
 Welcome to Skillcraft, a responsive and modern web-based project built entirely using HTML, CSS, and JavaScript. This project was created as part of the Skill Craft Internship and aims to deliver a practical, interactive, and visually clean web experience.

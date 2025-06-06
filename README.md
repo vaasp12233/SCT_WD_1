@@ -5,7 +5,7 @@ Welcome to Skillcraft, a responsive and modern web-based project built entirely 
 
 ## 🔗 Live Demo
 
-👉
+👉https://vaasp12233.github.io/SCT_WD_1/
 
 ## 📖 About the Project
 

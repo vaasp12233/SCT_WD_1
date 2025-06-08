@@ -13,16 +13,6 @@ Skillcraft is a one-page responsive website that features a rich UI, clean navig
 
 It’s an ideal showcase of frontend development skills — all built into a single index.html file.
 
-## ✨ Features
-
-   * 📱 Responsive Layout – Mobile-first design with adaptive navigation
-
-   * 📂 Dropdown Navigation – Interactive submenus using vanilla JS
-
-   * ⚡ Single HTML File – HTML, CSS, JS in one lightweight page
-
-   * 🎯 No Frameworks – Pure HTML, CSS, and JavaScript (no external frameworks)
-
 ## 📁 Project Structure
 
 
@@ -30,12 +20,9 @@ It’s an ideal showcase of frontend development skills — all built into a sin
 	│
 	├── index.html          # 🧱 Main HTML file (includes CSS and JS, or links to them)
 	├── README.md           # 📘 Project documentation
-	├── output.pdf          # 🖨 Printable version of the website
-	│
-	├── images/             # 🖼 Folder for all screenshots and output images
-	    ├── img1.jpg
-	    ├── img2.jpg
-	    └── ...
+	├── style.css           # styles in CSS
+        ├── script.js           # java script code 
+
 
 
 
